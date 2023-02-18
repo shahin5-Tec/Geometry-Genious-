@@ -16,6 +16,7 @@ document.getElementById('first-card').addEventListener('click', function () {
     secondTriangleElementFiled.value = '';
     //  validition
     
+    
     display("Triangle",area);
 
 })
